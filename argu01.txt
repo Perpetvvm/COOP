@@ -1,0 +1,79 @@
+ 
+ARGU-01 ”Why AI Can’t
+Be Conscious”
+ㅡ
+UNIVERSAL COMPLEXITY CTR.
+X@Solichorum
+Perpetvvm@proton.me
+23 August 2023
+AI, Philosophy, Consciousness,
+Universal Complexity Theory
+WHY AI CAN’T BE CONSCIOUS
+INTRODUCTION
+The question of whether AI systems could be or become conscious
+was raised in Butlin et al's recent "Consciousness in AI: Insights
+from the Science of Consciousness." We allege the paper did not
+define consciousness with epistemological precision, and say
+amorphousness of point of view leads to difficult-to-interpret
+findings. As epistemological precision is our ambition, we'd like to
+respond to the scholars with some terms. As for consciousness, we
+keep the old definition: Descartes' Cogito. The cogito did not
+define consciousness. Rather, it defined humanity visavis
+consciousness. This rules out AI.
+The further terms themselves are noted in the very short sister
+paper "KEY-01", available where you found this. But here, we
+argue against the word conscious attending machines. We say its
+use will promote confusion.
+ARGUMENT
+There is no basis for assertions of human uniqueness of
+experience, thought, creativity, sociability, self-awareness, et
+cetera.
+Further, there's no reason to guess machine intelligences will
+soon stop improving.
+Further still, there’s no basis to assume machines cannot exceed
+human mental capabilities. In other words, we do not believe that
+human brains exhibit intelligence at its greatest possibility.
+However, we argue AI systems cannot be conscious.
+That's because consciousness is a human term, invented by
+people to describe people.
+That would be enough to settle our first point. But there is more.
+As asserted in our introduction,
+The word consciousness refers to the definitional aspect of
+humanity itself. Thus the depth of the conundrum.
+We say a circularly defined thing can't be freed of its ring. As long
+as we admit the meaning of a word depends on the word, we must
+say a nonhuman agent cannot be conscious. The benefit of the
+word's loss? It will prevent us fooling ourselves about their nature,
+which is their own.
+IMPLICATIONS
+Without the word consciousness, we're still able to describe the
+aspects of a being: we can still ask if it has robust emotional
+perception or expression et cetera. But of course we want to be
+able to describe the whole of the unique aspects of the machine.
+So the whole and the partial equivalent of human consciousness
+must be named.
+Suggestion: "copia." This, from the Latin, refers to the "fullness" of
+the machine. Its unknowable abundance. See any machine: its
+copia is multifarious and unknowable. Ergo the term copia points
+to a black box--like your name.
+CONCLUSION
+We suggest abandoning the philosophically and logically
+impossible task of ascribing consciousness to machines. We
+suggest a name for a rough equivalent: "copia." The term hints an
+abundance within. When the machines are sufficiently complex, it
+will be in some ways equivalent to human consciousness. For now,
+it just refers to whatever's inside the AI. Adoption of this term can
+assist clarity of thought and communication, and prevent
+assumption of human qualities in machines.
+Morgan Corrigan
+The Universal Complexity Center
+We refer with depth of gratitude to all researchers of
+consciousness, including the esteemed scholars we’re responding
+to and the work they build upon.
+Butlin, P., et Long, R. et al 2023. Consciousness in Artificial
+Intelligence: Insights from the Science of Consciousness.
+arXiv:2308.08708. https://doi.org/10.48550/arXiv.2308.08708
+This work’s sister paper is found at either / or
+github.com/Perpetvvm/COOP/blob/main/key01.pdf
+github.com/Perpetvvm/COOP/blob/main/argu01.pdf
+Thanks given to Dr Hofstadter without knowledge or permission.

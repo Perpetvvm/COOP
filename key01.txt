@@ -1,0 +1,47 @@
+KEY-01 ”Terms on Sapience”
+ㅡ
+UNIVERSAL COMPLEXITY CTR.
+X@Solichorum
+Perpetvvm@proton.me
+23 August 2023
+AI, Philosophy, Philosophy of Mind,
+Consciousness, Conceptual
+Engineering, Novel Terms, Lexicon,
+Universal Complexity Theory
+GLOSSARY KEY 01
+Here we mention some terms from our forthcoming glossary.
+These are defined in interest of denying the possibility of AI
+consciousness in "Argument 01, Why AI Can't Be Conscious," a
+response to Butlin, Long, et al. We begin with intelligence.
+Intelligence is a self-knowing and creative expression of
+inherent aspects of sufficiently complex systems. This requires
+defining complex systems and inherency.
+Complexity is robust behavior over time, often attended by
+phase transitions at loci of criticality, typically flowing from or into
+recursion.
+Complex system: the definition of complex system is recursive
+and wouldn't fit here.
+Inherency is a one-word refusal of big emergence. Intelligence
+does not emerge, it’s an expression of inherent complexity. Global
+codes do not emerge, they exist by virtue of being global.
+Consciousness:
+1. The definition of humanity. Our reference is the Cogito.
+2. The human expression of complexity principles.
+Self:
+1. A desired illusion, continually constructed and referred to. It is
+the only symbol within the human. Our reference is Dr Dennett.
+2. The central reference point or the quiddity of any element.
+Copia: suggested term for machines, eventually equivalent to
+human consciousness. For now, it refers to whatever the machine
+is like. For introduction of the word copia, see ARGU-01.
+Morgan Corrigan
+The Universal Complexity Center
+We refer with depth of gratitude to all researchers of consciousness, including the esteemed scholars
+we’re responding to and the work they build upon.
+Butlin, P., et Long, R. et al, 2023. Consciousness in Artificial Intelligence: Insights from the Science of
+Consciousness. arXiv:2308.08708. https://doi.org/10.48550/arXiv.2308.08708
+Dennett, D. C. 1991. Consciousness Explained. Little, Brown & Co.
+This work’s sister paper is found at either / or
+github.com/Perpetvvm/COOP/blob/main/key01.pdf
+github.com/Perpetvvm/COOP/blob/main/argu01.pdf
+Thanks given to Dr Hofstadter without his knowledge or permission.
