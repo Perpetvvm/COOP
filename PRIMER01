@@ -1,0 +1,30 @@
+Criticality in Neuroscience: A Primer
+=====================================
+
+1. Introduction to Criticality
+-------------------------------
+- Definition: Criticality refers to the transition point between two distinct phases in a system. In physical systems, a classic example is the critical point between the liquid and gas phases of water.
+- Relevance: Systems at criticality exhibit certain universal properties, regardless of the details of the system. This universality has made the concept of criticality intriguing for many fields outside of physics, including neuroscience.
+
+2. Why Is Criticality Relevant to the Brain?
+--------------------------------------------
+- Dynamical Range: At the edge of criticality, systems can respond to a wide range of inputs, both small and large. This broad dynamical range is thought to be essential for the brain's ability to process diverse stimuli.
+- Maximal Sensitivity: Systems near criticality are sensitive to minor perturbations, which might underlie the brain's ability to detect and respond to subtle environmental changes.
+- Efficient Information Transfer: Critical systems can propagate information over long distances without significant loss, which could be crucial for long-range communication in the brain.
+
+3. Evidence for Criticality in Neural Systems
+---------------------------------------------
+- Neural Avalanches: Experiments have shown that the distribution of sizes of cascades of neural activity (often called "neural avalanches") follows a power law, a hallmark of critical systems.
+- Electrophysiological Data: Certain patterns in EEG and MEG data hint at the brain operating near a critical point.
+- Computational Models: Simulations of neural networks have demonstrated that networks operating near criticality can optimize information processing and storage.
+- Recent Studies: Emerging research points to Griffiths phase space in the brain, suggesting that while large regions may operate in a subcritical state, the brain as a whole is multicritical.
+
+4. Implications for Understanding the Brain
+-------------------------------------------
+- Functional Advantages: Understanding how and why the brain might operate near criticality can provide insights into its computational capabilities and flexibility.
+- Disease States: Aberrations from a critical state might underlie certain neurological and psychiatric conditions. For instance, some theories suggest epilepsy might result from the brain moving away from a critical point.
+
+6. Conclusion
+-------------
+- There is great potential in the concept of criticality in understanding neural dynamics and brain function.
+- Research into critiality is tremendously exciting today, and will reqire much effort going forward. 
