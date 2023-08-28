@@ -27,4 +27,4 @@ Criticality in Neuroscience: A Primer
 6. Conclusion
 -------------
 - There is great potential in the concept of criticality in understanding neural dynamics and brain function.
-- Research into critiality is tremendously exciting today, and will reqire much effort going forward. 
+- Research into critiality is tremendously exciting today, and will require much effort going forward. 
