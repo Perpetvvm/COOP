@@ -1,0 +1,118 @@
+﻿Queen + Lenna = Brain 
+
+
+How to Make a Portrait of All Brains
+or 
+A Robust Metric for a Standard of Neural Dynamics
+
+
+UNIVERSAL COMPLEXITY COOPERATIVE | X@SOLICHORUM | 1 SEPTEMBER 2023
+TAGS: NEUROIMAGING, STANDARDS, MUSIC, INTERDISCIPLINARY, METASTUDIES, UNIVERSAL COMPLEXITY THEORY
+
+
+Reference points and stimuli in neuroimaging are thin. This is a proposal to create a tool for baselines in neuroimaging. The suggested benchmark is a dynamic and ergodic single stimulus:  "Bohemian Rhapsody" by musical group Queen.
+
+
+On Robustness
+
+
+The unmarked* or ordinary state of the brain is robust. It's structurally robust across subjects, which you can see (if you like) as reflective of fundamental properties.1 Neuroplasticity and flexibility in extremo as well as adaptability over time require no citation.234 Our definition of robustness is a naturalistic one adding complexity, itself the topic of our organization.5
+*Unmarked: free of intentional stimulus. We intentionally avoid the word “default” here.
+
+
+Despite this robustness, typical measures for neuroimaging rely on creatively anemic reference point measurements during moments of imagined (but impossible) ordinary or non-manipulated cognitive states.6 Sometimes a minimally-dimensional stimulus will be introduced. But comparison of small differences around such stimuli fail to reveal obscure diagnostic paths.
+
+
+Imagine attempting to catalogue the global ecology's health with a few simple tools in a few locations, over a short period of time. That's what it's like trying to understand the brain with thin imaging methods. We'd call all methods currently in use thin.
+
+
+The Confound
+
+
+Crucial is to watch the brain as its elements oscillate between different states near a homeostasis. 7 
+The quickly growing literature on brain criticality informs a dynamic listening approach, rather than simplistic views.8 Understanding of the DMN leads to recognition that both engaged and so-called "resting*" states are valuable9 and needed in regular turn.6,10 Neuroscientific knowledge of all kinds leads to a desire to look at non- and attentive states. The centrality of emotion within the subject as well deserves respectful treatment: perhaps normal, un-stimulated baselines currently taken within imaging are snapshots of anomalies reflecting patients in exceptional or frightening circumstances. The real confound, in other words, is not doing anything.6
+
+
+Lenna
+
+
+Our view on a baseline’s utility follows. Refer to the famous  picture of Swedish model Lena Forsén. The image itself is known as "lenna." "Lenna'' shows the need for a savvy application of technology to deal with the subtleties of the human form, along with our sophistication in perceiving it. What did lenna do? The picture provided a yardstick that allowed people to compare image algorithms. If details were lost in Ms Forsén’s skin it was noticeable, and your algorithm was unlikely to arouse fervor.11 
+
+
+"The use of her photo is clearly one of the most important 
+events in the history of electronic imaging."
+-Early digital imaging expert Jeff Seideman on lenna. Playboy Newsdesk, Lena. 
+Retrieved from http://www.lenna.org/playboy_backups/lena.htm
+
+
+In the interest of forging a baseline, we propose a dynamic single stimulus. This will be a robust stimulus to match our robust brains. We suggest its ultimate utility lies in its universal adoption, so that data can be applied across disciplines of knowledge, across subject groups, across different methods of expertise. It’s a lateral analogue of lenna, for the brain instead of the jpg.
+
+
+The Piece and its Merits 
+
+
+Our suggestion is "Bohemian Rhapsody" by the musical group Queen. This choice raises and answers many questions about desired metrics within the dynamic brain. Its ergodicity, as explained following, is prime. Its long-standing appeal shows it could add emotional texture to the individual’s experience within testing. Its duration may allow attentional alterations, boredom and mind wandering even in subjects who enjoy the song: states vital for future scientific insight. Oscillations around these mental states and their relativities over time (their dynamisms) are what we want to study.
+
+
+Emotional engagement is one metric that shows diversity. The piece could provoke excitement, awe, nostalgia, thoughts of a loved "Mama," or the fear of death. And the variations, we emphasize, among these states over time is what's important. 
+
+
+Also importantly, its singalong quality is a boon. The piece has a reputation of causing people to sing, desired or no, like a Pied Piper. It leads the ambivalent as well as the enthusiastic. That reputation was our inspiration, because of mirror neurons: exploration of them is of particular interest to us. As socialization is not possible under imaging circumstances, Bohemian Rhapsody may be a fine substitute. Similarly the effort, expense, and procedural confusion around using multimodal media like films for our baseline would be prohibitive. At under six minutes, the musical method is handier, and the example is widely available.  We imagine the mirror neurons and salient vocal regions could be spatiotemporally correlated in activation. (To be clear, the link between involuntary subvocalization and mirror neurons is our speculation: it's what we'd like to test.) The presumed complexity and emergent velocities of these interactions may require analysis on metrics such as those from Palva Labs and our own valent potential, a novel variable.14 Palva’s papers have been invaluable, and we're referencing them here warmly. If anything, we’re noting too few of their works with the few below. It's the whole of their work that provides the most up-to-date and compelling basis for the neurobiological aspects of our framework, Universal Complexity Theory.5,15 And we haven’t even mentioned their suggestion of the brain as not a singly but multicritical space; one characterized by Griffiths phaselike activity.*,16 This “metametastable” state informs our explorations too. 
+*Not to be confused with other things named after Griffiths’ varied instruction in his book,17 like Griffiths spaces in topological isomorphisms18 and physical duals. 
+
+
+On Ergodicity
+
+
+Bohemian Rhapsody is an artwork that's diverse within--it’s a world. Variation is evident over tempo, lyrical content, and genre itself. We propose that this multifaceted nature of the song could afford what's known in complexity science as 'ergodicity' within the human brain, which is another way of looking at diversity within. Ergodicity refers to an element's likelihood of exploring an entire possibility space.8 When not moderated by power laws and other sources of critical consonance, this leads to chaos. But within the human system it leads to a likelihood of neural elements trying more options over time. Brains showing unusual ergodicity could be examined to see if they're operating subcritically, or with pathology. Thoth's study on "Ergodicity... in neural circuits" is seen below.
+
+
+On Noise
+
+
+Let's talk about noise. (Readers in neuroimaging just started really paying attention.) It's an impediment to understanding the testable signals of neurobiology and cognition. Dr Kumar's study, the first cited here, shows we can use knowledge of structural commonalities to help distinguish noise. Our methods are not intended as solution or obviation, by the way. This one should be used with lenses like Dr Kumar's. Our concept’s interdisciplinary nature implies further connections as well. One study on grid cells could contribute data to others' explorations of attention or other worthy topics. The transplantable and translatable nature of this "Rhapsodic data'' will be a boon to connnecting divided knowledge.
+
+
+Digressive implications aside, further elucidation about the harm of noise is found in Stark and Squire's study,6 "When Zero is not Zero." This study confirms again the so-called resting state is not. It's associated with specific elevations of activity. The confounds here could be called noise. Stark's study, in fact, could provide all the basis we need for our proposal.
+
+
+Method
+
+
+1. Choose one appropriate copy of Bohemian Rhapsody for global distribution.
+2. Use capabilities of existing machines to cast audio during imaging. This is a systemic replacement of all (within reason) current non-robust imaging methods. 
+3. Compare. 
+
+
+Thank you for reading.
+
+
+Conflict Statement
+We are financially disinterested, reputationally oblivious, and emotionally conflicted. Morgan Corrigan and byline refer to same author. The Universal Complexity Cooperative believe in humanity, empathy, and empiricism. The Cooperative is seeking a senior author; interested parties contact x@Solichorum or perpetvvm@proton.me. 
+
+
+Jeff Gordon
+Universal Complexity Cooperative
+
+
+Reference
+
+
+1. Kumar, S., Shovon, A. R., Deshpande, G. (2023). "The robustness of persistent homology of brain networks." Human Brain Mapping. DOI: 10.1002/hbm.26403
+2. Dennett, D. C. (1991). "Consciousness Explained." Little, Brown and Co.
+3. Metzinger, T. (2009). "The Ego Tunnel: The Science of the Mind and the Myth of the Self." Basic Books.
+4. Ramachandran, V. S. (2011). "The Tell-Tale Brain: A Neuroscientist's Quest for What Makes Us Human." W. W. Norton & Company.
+5. Corrigan, Morgan. (2023). “Glossary Key 01.” Universal Complexity Cooperative. github.com/Perpetvvm/COOP/blob/main/key01.pdf
+6. Stark, C. E., Squire, L. R. (2001). "When zero is not zero: the problem of ambiguous baseline conditions in fMRI." Proc Natl Acad Sci U S A, 98(22), 12760-12766. DOI: 10.1073/pnas.221462998
+7. Ros, T., Baars, B. J., Lanius, R. A., Vuilleumier, P. (2014). "Tuning pathological brain oscillations with neurofeedback: A systems neuroscience framework." Frontiers in Human Neuroscience, 8. DOI: 10.3389/fnhum.2014.01008
+8. Toth, P. G., Marsalek, P., Pokora, O. (2018). "Ergodicity and parameter estimates in auditory neural circuits." Biol Cybern, 112(1-2), 41-55. DOI: 10.1007/s00422-017-0739-5
+9. Buckner, R. L., Andrews-Hanna, J. R., Schacter, D. L. (2008). "The brain's default network." Ann N Y Acad Sci, 1124, 1-38. DOI: 10.1196/annals.1440.011
+10. Raichle, M. E. (2015). "The Brain's Default Mode Network." Annual Review of Neuroscience, 38, 433-447. DOI: 10.1146/annurev-neuro-071013-014030
+11. Kinstler, L. (2019). "Finding Lena, the Patron Saint of JPEGs." Backchannel, Wired, Jan 31. Available at: https://www.wired.com/story/finding-lena-the-patron-saint-of-jpegs/
+12. Preprint: Hirvonen, J., Haque, H., Wang, S. H., et al. (2022). "Is mild ADHD beneficial: Brain criticality is maximal with moderate ADHD symptom scores." bioRxiv. DOI: 10.1101/2022.12.14.519751
+13. Preprint: Wang, S. H., Arnulfo, G., Myrov, V., et al. (2022). "Critical-like bistable dynamics in the resting-state human brain." bioRxiv. DOI: 10.1101/2022.01.09.475554
+14. Corrigan, Morgan. (2023). “Valent Potential: A Metric for Emergence.” Fmr titled “Valent Potential: A Human Manifold for Many Spheres.” Universal Complexity Cooperative. github.com/Perpetvvm/COOP/blob/main/key02.pdf
+15. The Universal Complexity Cooperative, Public Relations: x.com/Solichorum
+16. Fuscà, M., Siebenhühner, F., Wang, S. H., et al. (2023). Brain criticality predicts individual levels of inter-areal synchronization in human electrophysiological data. Nature Communications, 14, 4736. https://doi.org/10.1038/s41467-023-40056-9
+17. Griffiths, D. J. (2018). Introduction to Quantum Mechanics (3rd ed.). Cambridge University Press.
+This paper is found at https://github.com/Perpetvvm/COOP/blob/main/standard01.pdf
